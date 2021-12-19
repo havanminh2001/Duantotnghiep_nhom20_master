@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/admin/common/header2.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/product/updateProduct.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/user/createUser.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/client/cart.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/client/profile.jsp=UTF-8
